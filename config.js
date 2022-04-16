@@ -34,9 +34,9 @@ function pickRandom(list) {
 
 
 global.DeveloperMode = 'false' //Buat Mode True False Moderator
-global.linkGC = ['https://chat.whatsapp.com/BYcW7rue6fA8gNdyLPedDe'] // ganti jadi group lu
-global.owner = ['6288229683561', '6287708773367' ,'6285600204672','62831433937630','6285704954639', '62895336282144', '6285712420674'] // Put your number here
-global.mods = ['6288229683561'] // Want some help?
+global.linkGC = ['https://chat.whatsapp.com/CXP3PISEIaF90hb5WbUIRh'] // ganti jadi group lu
+global.owner = ['6285237596750', '6285237596750' ,'6285237596750','6285237596750','6285237596750', '6285237596750', '6285237596750'] // Put your number here
+global.mods = ['6285237596750'] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -73,11 +73,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '🌙 Lord вσт\nwa.me/6287708773367\n\n\n𝙱𝚢 Kurumi あ\n\n\nFollow IG: @lord_ammar_quoteser_\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.'
+global.packname = '🌙 Lord вσт\nwa.me/6285237596750\n\n\n𝙱𝚢 Kurumi あ\n\n\nFollow IG: @q.c.ditya\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.'
 global.author = '۰ ⸼'
 
 // silakan di ganti klo mau
-global.botwm = `🤖 Lord вσт`//UBAH JADI NAMAMU
+global.botwm = `🤖 dityabotz`//UBAH JADI NAMAMU
 global.wm = `꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Kurumi - sama˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷`
 global.botdate = `❏ ${wktu}\n❏ ${week} ${date}`
 global.imagebot = `https://telegra.ph/file/793b6accf3758f092742a.jpg`
